@@ -1,0 +1,13 @@
+#EXTM3U
+
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="Cricket",T20 WC Live -1
+http://xtv.ooo:8080/live/121265581/121265552/167583.m3u8
+EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="Cricket",T20 WC LIVE-2
+http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/52500.m3u8
+EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title-"Cricket",T20 WC LIVE-3
+http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/148.m3u8
+EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="Cricket",T20 WC LIVE 4
+http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/12.m3u8
+EXTINF:-5 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="Cricket",T20 WC LIVE 5
+EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="Cricket",T20 WC LIVE 6
+http://xtv.ooo:8080/live/121265581/121265552/167581.m3u8
