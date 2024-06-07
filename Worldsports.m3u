@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-0 tvg-logo="https://i.ytimg.com/vi/cVpcYtaEiUQ/hqdefault.jpg?v=66625a04",Bangladesh vs Srilanka 4K
+https://ardinesh-sansat.puspas.com.np/auth729rSvkYlt/live/sansat-universal/uk4k-sky-sports-cricket/index.ts
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="Cricket",T20 WC Live -1
 http://xtv.ooo:8080/live/121265581/121265552/167583.m3u8
 
