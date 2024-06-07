@@ -1,22 +1,31 @@
 #EXTM3U
 
-#EXTINF:-0 tvg-logo="https://i.ytimg.com/vi/cVpcYtaEiUQ/hqdefault.jpg?v=66625a04",Bangladesh vs Srilanka 4K
+#EXTINF:-8 tvg-logo="https://i.ytimg.com/vi/cVpcYtaEiUQ/hqdefault.jpg?v=66625a04"group-title"Cricket",T20 WC 4K
 https://ardinesh-sansat.puspas.com.np/auth729rSvkYlt/live/sansat-universal/uk4k-sky-sports-cricket/index.ts
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="Cricket",T20 WC Live -1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png"group-title="Cricket",T20 WC Live -1
 http://xtv.ooo:8080/live/121265581/121265552/167583.m3u8
 
-#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="Cricket",T20 WC LIVE-2
+#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png"group-title="Cricket",T20 WC LIVE-2
 http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/52500.m3u8
 
-#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title-"Cricket",T20 WC LIVE-3
+#EXTINF:-3 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png"group-title-"Cricket",T20 WC LIVE-3
 http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/148.m3u8
 
-#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="Cricket",T20 WC LIVE 4
+#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png"group-title="Cricket",T20 WC LIVE 4
 http://starshare.live:8080/live/sDouR8ee0j/vJfJGRgmSs/12.m3u8
 
-#EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png" group-title="Cricket",T20 WC LIVE 6
+#EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/2024_ICC_Men%27s_T20_World_Cup_logo.svg/800px-2024_ICC_Men%27s_T20_World_Cup_logo.svg.png"group-title="Cricket",T20 WC LIVE 6
 http://xtv.ooo:8080/live/121265581/121265552/167581.m3u8
 
-#EXTINF:-7 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFi2hS4Kp1lbSmQUUhu92G55jyVO_iPflLsnIte-78dLR_8KYqLsq3N6G&s=10"group-title="Football",Netharlands vs Canada
+#EXTINF:-7 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDFi2hS4Kp1lbSmQUUhu92G55jyVO_iPflLsnIte-78dLR_8KYqLsq3N6G&s=10"group-title="Football",Sky Sports Football
 https://ardinesh-sansat.puspas.com.np/auth729rSvkYlt/live/sansat-universal/ukhd-sky-sports-football/index.ts
+
+#EXTINF:-8 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRnOY1yC0O_nuFGdMzGhvAK9L3JnYD6UJw3-qABYy_Xe1cQj31bNDQimXo&s=10"group-title="Football",Bein Sports 1 4k
+https://ardinesh-sansat.puspas.com.np/auth729rSvkYlt/live/sansat-universal/ar-bein-sports-1-4k/index.ts
+
+#EXTINF:-9 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZKXnNMVmKXzqVMcyuZL6WKlMbKNZIpk8JXx79TXRnAjikfFONErgWVR-e&s=10"group-title="Football",Bein Sports 2 4k
+https://ardinesh-sansat.puspas.com.np/auth729rSvkYlt/live/sansat-universal/ar-bein-sports-2-4k/index.ts
+
+#EXTINF:-10 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQX2OGVc3AINEIQGhb0f10B4FPQX-VKjqgxfeg0xZ2RfYDOHmHgIfpDfQ_k&s=10"group-title="Football",Bein Sports 3 4k
+https://ardinesh-sansat.puspas.com.np/auth729rSvkYlt/live/sansat-universal/ar-bein-sports-3-4k/index.ts
