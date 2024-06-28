@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEJC6CKSFnDu3fuj33SQi5UDzbTVyNIBiPciOKS4HTAaTELAPNuWj4YRc&s=10" group-title="Cricket"Willow Cricket
-http://5gott.one/live/1122334455/1122334455/260994.m3u8
+#EXTINF:-12 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFEJC6CKSFnDu3fuj33SQi5UDzbTVyNIBiPciOKS4HTAaTELAPNuWj4YRc&s=10" group-title="Cricket",Willow Cricket
+http://5gott.one/live/1122334455/1122334455/260994.ts
 
 #EXTINF:-11 tvg-logo="https://i.ytimg.com/vi/cVpcYtaEiUQ/hqdefault.jpg?v=66625a04"group-title="Cricket",T20 WC 4K
 https://ardinesh-sansat.puspas.com.np/auth729rSvkYlt/live/sansat-universal/uk4k-sky-sports-cricket/index.ts
